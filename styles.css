@@ -1,0 +1,14 @@
+body {
+    margin: 0px 0px;
+}
+
+nav {
+    background-color: #C09F80;
+    height: 69px;
+}
+
+nav a {
+    display: inline-block;
+    margin: 0 auto;
+    font-size: 2em;
+}
