@@ -54,9 +54,16 @@ nav a {
     
 }
 
+
 nav a:hover {
     text-decoration: underline;
-}    
+} 
+
+nav h2 {
+    display: none;
+    color: white;
+    margin-right: 50%
+}
 
 a {
     font-family: 'Hind', sans-serif;
@@ -119,12 +126,12 @@ h2 {
 
 .details-right {
     grid-column: 4 / span 9;
-    padding: 20px 10px;
+    margin: 20px 10px;
 }
 
 .details-left {
     grid-column: 1 / span 9;
-    padding: 20px 10px;
+    margin: 20px 10px;
 }
 
 .section-heading-right {
