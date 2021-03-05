@@ -129,25 +129,12 @@ h2 {
     margin: 20px 10px;
 }
 
-.details-left {
-    grid-column: 1 / span 9;
-    margin: 20px 10px;
-}
-
-.section-heading-right {
-    grid-column: 10 / span 3;
-    background-color: #800020;
-    height: 100%;
-    width: 100%;
-}
-
 .red-background {
     color: white;
     padding: 100px 10px 0px 10px;
     font-size: 2em;
     font-family: 'Montserrat', sans-serif;
 }
-
 
 p {
     font-family: 'Hind', sans-serif;
@@ -186,4 +173,3 @@ footer {
     background-color: black;
     color: white;
 }
-
